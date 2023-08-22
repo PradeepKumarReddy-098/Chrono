@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.timelineview-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-heading {
+  color: #2b237c;
+}

@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.projectView-container {
+  width: 100%;
+}
+.image {
+  width: 100%;
+}
+.title-duration {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-time {
+  display: flex;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+  color: #0967d2;
+  font-weight: 600;
+}

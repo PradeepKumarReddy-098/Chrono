@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.courseview-container {
+  width: 100%;
+}
+
+.title-duration-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.clock-title {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  padding-left: 0px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.duration {
+  color: #171f46;
+}
+.tags {
+  background-color: #c2dff2;
+  margin: 5px;
+  color: #1e293b;
+}
+.course-text {
+  color: #1e293b;
+}
